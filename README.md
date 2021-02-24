@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Functions
+## If/Else Continued
 
 What is a Function?
 
@@ -18,7 +18,7 @@ Functions always return a value. In JavaScript, if no return value is specified,
 
 &nbsp;
 
-## Parameters
+## Node
 
 Function parameters are the names listed in the function definition.
 
